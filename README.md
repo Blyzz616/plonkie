@@ -6,7 +6,7 @@ The 3rd Iteration of Discord / Project Zomboid integration
 	- [ ] Discord Webhook
 	- [ ] Steam ID of admin
 
-- [ ]Server Events
+- [ ] Server Events
 	- [ ] Startup init
 	- [ ] Startup complete
 	- [ ] Shutdown
